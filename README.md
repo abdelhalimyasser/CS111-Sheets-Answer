@@ -28,7 +28,7 @@ The goal of this repository is to:
    ```
 2. Navigate to the folder:
    ```bash
-   cd CS111-Sheets-Solutions
+   cd "Folder Name"
    ```
 3. Compile and run using GCC or G++:
    ```bash
