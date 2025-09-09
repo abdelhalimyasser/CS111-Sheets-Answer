@@ -8,7 +8,8 @@ int isPrime(int n) {
     return 1;
 }
 
-int main() {
+int main() 
+{
     int num = 13;
   
     if (isPrime(num)) 
