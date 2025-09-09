@@ -4,7 +4,8 @@ void greet() {
     printf("Hello, welcome to the program!\n");
 }
 
-int main() {
+int main() 
+{
     greet();
     return 0;
 }
