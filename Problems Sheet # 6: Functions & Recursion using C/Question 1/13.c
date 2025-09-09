@@ -5,7 +5,8 @@ void printTable(int n) {
         printf("%d x %d = %d\n", n, i, n*i);
 }
 
-int main() {
+int main() 
+{
     printTable(5);
     return 0;
 }
