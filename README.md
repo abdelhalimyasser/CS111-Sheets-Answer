@@ -49,4 +49,5 @@ If you have better/optimized solutions or explanations, feel free to contribute 
 ---
 
 ## 📝 License
-This project is licensed under the **MIT License** – you are free to use, share, and modify.  
+This project is licensed under the [MIT License](./LICENSE).  
+You are free to use, modify, and distribute the code with proper attribution.
