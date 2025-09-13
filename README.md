@@ -5,6 +5,11 @@ It is created to help students understand programming concepts, problem-solving 
 
 ---
 
+## 📑 Sheets PDF  
+You can view the original problems here: [CS111 – Introduction to Computer Science and Programming (C & C++)](./CS111%20-%20Exercises%207%20Problems%20Sheets%20.pdf)
+
+---
+
 ## 📂 Contents
 - ✅ Solutions to all CS111 sheets of **Introduction to Computer Science and Programming (C & C++)** for **FCAI-Helwan University**
 - ✅ Written in both **C** and some of  **C++**  
