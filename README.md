@@ -10,7 +10,7 @@ You can view the original problems here: [CS111 – Introduction to Computer Sci
 
 ---
 
-## 🌐 You Can also Download it 
+## 🌐 You Can also Download The Whole Repo 
  - **from [👉here](https://github.com/abdelhalimyasser/CS111-Sheets-Answer/archive/refs/heads/main.zip)**
 
 ---
